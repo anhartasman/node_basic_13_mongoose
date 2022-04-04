@@ -1,2 +1,3 @@
 # node_basic_13_mongoose
-Bekerja dengan mongoose
+
+Mempelajari mongoose di node js
