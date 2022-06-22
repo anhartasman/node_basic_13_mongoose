@@ -13,3 +13,9 @@ Menghubungkan server mongodb dengan mongoose
 ### Intro
 
 Membuat skema produk
+
+## 213. Saving Data Through Mongoose
+
+### Intro
+
+Menyimpan data dengan Mongoose
