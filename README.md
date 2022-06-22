@@ -8,3 +8,8 @@ Mempelajari mongoose di node js
 
 Menghubungkan server mongodb dengan mongoose
  
+## 212. Creating the Product Schema
+
+### Intro
+
+Membuat skema produk
