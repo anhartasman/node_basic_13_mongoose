@@ -29,7 +29,11 @@ app.use("/admin", adminRoutes);
 app.use(shopRoutes);
 
 app.use(errorController.get404);
+
 mongoose.connect('mongodb+srv://admin:ph8HjaDfuRZBuLh@cluster0.aay6z.mongodb.net/shop?retryWrites=true&w=majority').then(result=>{
   app.listen(3000);
 
-}).catch((err) => console.log(err));
+}).catch((err)=>{
+  console.log(err);
+  
+});

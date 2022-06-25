@@ -19,3 +19,9 @@ Membuat skema produk
 ### Intro
 
 Menyimpan data dengan Mongoose
+
+## 214. Fetching All Products
+
+### Intro
+
+Mendapatkan data daftar produk
