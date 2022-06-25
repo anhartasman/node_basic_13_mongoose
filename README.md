@@ -25,3 +25,9 @@ Menyimpan data dengan Mongoose
 ### Intro
 
 Mendapatkan data daftar produk
+
+## 215. Fetching a Single Product
+
+### Intro
+
+Mendapatkan data produk berdasarkan id
