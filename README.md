@@ -43,3 +43,9 @@ Mengupdate data produk
 ### Intro
 
 Menghapus data produk
+
+## 218. Adding and Using a User Model
+
+### Intro
+
+Membuat model user
