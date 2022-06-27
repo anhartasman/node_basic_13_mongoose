@@ -31,3 +31,9 @@ Mendapatkan data daftar produk
 ### Intro
 
 Mendapatkan data produk berdasarkan id
+
+## 216. Updating Products
+
+### Intro
+
+Mengupdate data produk
