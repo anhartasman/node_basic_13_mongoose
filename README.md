@@ -49,3 +49,9 @@ Menghapus data produk
 ### Intro
 
 Membuat model user
+
+## 219. Using Relations in Mongoose
+
+### Intro
+
+menggunakan relasi di mongoose
