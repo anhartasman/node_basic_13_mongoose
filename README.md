@@ -55,3 +55,9 @@ Membuat model user
 ### Intro
 
 menggunakan relasi di mongoose
+
+## 220. One Important Thing About Fetching Relations
+
+### Intro
+
+Beberapa function penting terkait relasi
