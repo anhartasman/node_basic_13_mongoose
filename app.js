@@ -30,7 +30,7 @@ app.use(shopRoutes);
 
 app.use(errorController.get404);
 
-mongoose.connect('mongodb+srv://admin:ph8HjaDfuRZBuLh@cluster0.aay6z.mongodb.net/shop?retryWrites=true&w=majority').then(result=>{
+mongoose.connect('mongodb+srv://admin:admin123@cluster0.aay6z.mongodb.net/shop?retryWrites=true&w=majority').then(result=>{
  User.findOne().then(user=>{
    if(!user){
     const user=new User({
