@@ -63,6 +63,11 @@ this.cart.items=updatedCartItems;
 return this.save();
 }
 
+userSchema.methods.clearCart=function(){
+this.cart={items:[]};
+return this.save();
+}
+
 module.exports = mongoose.model('User',userSchema);
 
 // const mongodb = require("mongodb");
